@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y8Qat3lhtQYtoTD9GYuEaNkj8aCxK1dGInvOOGbKBuQK/IxNMytpEaSQoBUOSkx4J7n4R79BfZnoo+zI0w82ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serge\\source\\repos\\Converter_v2\\Converter_v2\\Converter_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
