@@ -40,10 +40,6 @@ namespace Converter
                             Console.WriteLine("Сяб");
                             break;
                         }
-                        if (key == ConsoleKey.F2)
-                        {
-
-                        } 
                     }
                     if (key == ConsoleKey.Escape)
                     {
